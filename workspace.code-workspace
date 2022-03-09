@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "bottomNavigationBar"
+		},
+		{
+			"path": "Navigation&Transition"
+		},
+		{
+			"path": "bottomNavigationBar&PagesNavigation"
+		}
+	],
+	"settings": {}
+}
