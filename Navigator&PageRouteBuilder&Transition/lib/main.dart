@@ -23,19 +23,18 @@ class FirstPage extends StatelessWidget {
           child: Center(
               child: ElevatedButton(
             onPressed: () {
-              Navigator.push(
-                  context,
-                  PageRouteBuilder(
-                      pageBuilder: (_fadetransition, _slidetransition,
-                              _scaletransition) =>
+              Navigator.of(context).pushReplacementNamed('/second');
+              PageRouteBuilder(
+                  pageBuilder:
+                      (_fadetransition, _slidetransition, _scaletransition) =>
                           SecondPage(),
-                      transitionsBuilder: (_fadetransition, _slidetransition,
-                              _scaletransitio, child) =>
-                          FadeTransition(
-                            opacity: _slidetransition,
-                            child: child,
-                          ),
-                      transitionDuration: Duration(seconds: 1)));
+                  transitionsBuilder: (_fadetransition, _slidetransition,
+                          _scaletransitio, child) =>
+                      FadeTransition(
+                        opacity: _slidetransition,
+                        child: child,
+                      ),
+                  transitionDuration: Duration(seconds: 1));
             },
             child: Text('Second Page'),
           ))),

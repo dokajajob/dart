@@ -1,16 +1,10 @@
 {
 	"folders": [
 		{
-			"path": "."
+			"path": "courseApp"
 		},
 		{
-			"path": "bottomNavigationBar"
-		},
-		{
-			"path": "Navigation&Transition"
-		},
-		{
-			"path": "bottomNavigationBar&PagesNavigation"
+			"path": "course_app"
 		}
 	],
 	"settings": {}

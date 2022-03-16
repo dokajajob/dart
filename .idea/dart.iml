@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/dropdown/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/dropdown/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/dropdown/build" />
+      <excludeFolder url="file://$MODULE_DIR$/here/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/here/build" />
+      <excludeFolder url="file://$MODULE_DIR$/here/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutterapp/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutterapp/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutterapp/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/TextField&amp;NavigateWithParameters/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/TextField&amp;NavigateWithParameters/build" />
+      <excludeFolder url="file://$MODULE_DIR$/TextField&amp;NavigateWithParameters/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Navigate&amp;routes&amp;pushNamedAndRemoveUntil&amp;clearRouteStack/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Navigate&amp;routes&amp;pushNamedAndRemoveUntil&amp;clearRouteStack/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Navigate&amp;routes&amp;pushNamedAndRemoveUntil&amp;clearRouteStack/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bottomNavigationBar&amp;PagesNavigation/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bottomNavigationBar&amp;PagesNavigation/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/bottomNavigationBar&amp;PagesNavigation/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/dialog&amp;bottomSheet/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/dialog&amp;bottomSheet/build" />
+      <excludeFolder url="file://$MODULE_DIR$/dialog&amp;bottomSheet/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/datetime/build" />
+      <excludeFolder url="file://$MODULE_DIR$/datetime/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/datetime/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/routes&amp;onGenerateRoute/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/routes&amp;onGenerateRoute/build" />
+      <excludeFolder url="file://$MODULE_DIR$/routes&amp;onGenerateRoute/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bottomNavigationBar/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/bottomNavigationBar/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bottomNavigationBar/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/stateFull/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/stateFull/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/stateFull/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Navigate&amp;routes&amp;pushReplacementNamed/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Navigate&amp;routes&amp;pushReplacementNamed/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Navigate&amp;routes&amp;pushReplacementNamed/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Drawer&amp;DrawerHeader/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Drawer&amp;DrawerHeader/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Drawer&amp;DrawerHeader/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Navigator&amp;PageRouteBuilder&amp;Transition/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Navigator&amp;PageRouteBuilder&amp;Transition/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Navigator&amp;PageRouteBuilder&amp;Transition/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/routes&amp;ModalRoute/build" />
+      <excludeFolder url="file://$MODULE_DIR$/routes&amp;ModalRoute/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/routes&amp;ModalRoute/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/myFirstApp/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/myFirstApp/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/myFirstApp/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
